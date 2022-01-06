@@ -488,80 +488,11 @@ const About = () => {
                           />
                         </figure>
                       </div>
-                      <div>
-                        <figure className="dc-slide">
-                          <img
-                            src="assets/images/testimonials/img-01.jpg"
-                            alt="image description"
-                          />
-                        </figure>
-                      </div>
-                      <div>
-                        <figure className="dc-slide">
-                          <img
-                            src="assets/images/testimonials/img-01.jpg"
-                            alt="image description"
-                          />
-                        </figure>
-                      </div>
-                      <div>
-                        <figure className="dc-slide">
-                          <img
-                            src="assets/images/testimonials/img-01.jpg"
-                            alt="image description"
-                          />
-                        </figure>
-                      </div>
                     </div>
                     <div
                       id="dc-feedbackslider"
                       className="dc-feedbackslider slider-single "
                     >
-                      <div className=" dc-testimonialscontent">
-                        <div className="dc-description">
-                          <blockquote>
-                            <q>
-                              Consectetur adipisicing eliteiuim sete eiusmod
-                              tempor incididunt labore etnalom dolore magna{" "}
-                              <span>aliqua udiminimate</span> veniam quis norud.
-                            </q>
-                          </blockquote>
-                        </div>
-                        <div className="dc-title">
-                          <span>Client</span>
-                          <h3>Sharan Jansson</h3>
-                        </div>
-                      </div>
-                      <div className=" dc-testimonialscontent">
-                        <div className="dc-description">
-                          <blockquote>
-                            <q>
-                              Consectetur adipisicing eliteiuim sete eiusmod
-                              tempor incididunt labore etnalom dolore magna{" "}
-                              <span>aliqua udiminimate</span> veniam quis norud.
-                            </q>
-                          </blockquote>
-                        </div>
-                        <div className="dc-title">
-                          <span>Client</span>
-                          <h3>Sharan Jansson</h3>
-                        </div>
-                      </div>
-                      <div className=" dc-testimonialscontent">
-                        <div className="dc-description">
-                          <blockquote>
-                            <q>
-                              Consectetur adipisicing eliteiuim sete eiusmod
-                              tempor incididunt labore etnalom dolore magna{" "}
-                              <span>aliqua udiminimate</span> veniam quis norud.
-                            </q>
-                          </blockquote>
-                        </div>
-                        <div className="dc-title">
-                          <span>Client</span>
-                          <h3>Sharan Jansson</h3>
-                        </div>
-                      </div>
                       <div className=" dc-testimonialscontent">
                         <div className="dc-description">
                           <blockquote>
@@ -629,38 +560,6 @@ const About = () => {
                       <a href="javascript:void(0);">
                         <img
                           src="assets/images/clients-logos/img-03.png"
-                          alt="img description"
-                        />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">
-                        <img
-                          src="assets/images/clients-logos/img-04.png"
-                          alt="img description"
-                        />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">
-                        <img
-                          src="assets/images/clients-logos/img-05.png"
-                          alt="img description"
-                        />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">
-                        <img
-                          src="assets/images/clients-logos/img-06.png"
-                          alt="img description"
-                        />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="javascript:void(0);">
-                        <img
-                          src="assets/images/clients-logos/img-07.png"
                           alt="img description"
                         />
                       </a>
