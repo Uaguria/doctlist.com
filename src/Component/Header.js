@@ -6,13 +6,16 @@ function Header() {
     <React.StrictMode>
       {/* <!-- Header Start --> */}
       <header id="dc-header" className="dc-header dc-haslayout">
-        <div className="dc-topbar">
+        <div className="dc-topbar" style={{ padding: "0px" }}>
           <div className="container">
             <div className="row">
               <div className="col-12 col-sm-12 col-md-12 col-lg-12">
                 <div className="dc-helpnum">
-                  <span>Emergency Help!</span>
-                  <a href="tel:123456789">+1 234 5678 - 9</a>
+                  {/* <span>Emergency Help!</span> */}
+                  <a href="tel:123456789" className="align-middle">
+                    <b style={{ fontSize: "16px", color: "#3D4461" }}>Help: </b>{" "}
+                    +1 234 5678 - 9
+                  </a>
                 </div>
                 <div className="dc-rightarea">
                   <ul className="dc-simplesocialicons dc-socialiconsborder">
